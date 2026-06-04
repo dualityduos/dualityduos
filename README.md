@@ -3,6 +3,6 @@
 
 
 <p align="center">
-ㅤ $${\color{#1E2D33}oh,}$$ $${\color{#3B4951}to}$$ $${\color{#616C7B}tighten}$$ $${\color{#7E848F}my}$$ $${\color{#8F8E8E}hands}$$ $${\color{#A59A8D}around}$$ ㅤ</br>
-ㅤ $${\color{#1E2D33}the}$$ $${\color{#495661}waist}$$ $${\color{#747E8F}of}$$ $${\color{#8C8B8E}something}$$ $${\color{#A59A8D}violent}$$ ㅤ</br>
+ㅤ $${\color{#1E2D33}oh,}$$ ㅤ $${\color{#3B4951}to}$$ ㅤ $${\color{#616C7B}tighten}$$ ㅤ $${\color{#7E848F}my}$$ ㅤ $${\color{#8F8E8E}hands}$$ ㅤ $${\color{#A59A8D}around}$$ ㅤ</br>
+ㅤ $${\color{#1E2D33}the}$$ ㅤ $${\color{#495661}waist}$$ ㅤ $${\color{#747E8F}of}$$ ㅤ $${\color{#8C8B8E}something}$$ ㅤ $${\color{#A59A8D}violent}$$ ㅤ</br>
 </p>
